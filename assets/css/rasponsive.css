@@ -1,0 +1,151 @@
+/* Medium Layout: 1280px. 
+
+Checking Point: 1000px
+Width: 970px
+*/
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+    
+    .menu ul li {
+		padding: 10px 12px;
+	}
+
+
+}
+
+
+
+/* Tablet Layout: 768px. 
+
+Checking Point: 800px
+Width: 750px
+*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+
+
+
+}
+
+
+/* Wide Mobile Layout: 480px.
+Checking Size: 600px
+Standard Width:450px
+ */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	
+	
+	
+}
+
+/* Mobile Layout: 320px. 
+
+Checking Point: 320px
+Width: 300px
+*/
+@media only screen and (max-width: 767px){
+	.header-area .col-xl-3 {
+        width: 30%;
+    }
+    .header-area .col-xl-7 {
+        width: 40%;
+    }
+	.header-area .col-xl-2{
+		width: 30%;
+	}
+	.header-area {
+		background-color: #023c02;
+	}
+	.box-btn {
+		padding: 3px 3px;
+		font-size: 10px;
+	}
+	.navbar-light .navbar-toggler-icon {
+		font-size: 13px;
+	}
+	.logo a {
+		font-size: 30px;
+	}
+	.navbar-toggler {
+		background-color: #fff;
+	}
+	.welcome-contant h2 {
+		font-size: 35px;
+	}
+	.welcome-contant h1 {
+		font-size: 35px;
+	}
+	.about p {
+		font-size: 27px;
+	}
+	.about-l {
+		margin-bottom: 50px;
+	}
+	.about-r p {
+		font-size: 16px;
+	}
+	.info-1 ul li span {
+		padding-left: 0px;
+	}
+	.experience h2 {
+		font-size: 37px;
+	}
+	.graduation h2 {
+		font-size: 35px;
+	}
+	.freelancer h1 {
+		font-size: 35px;
+	}
+	.service h1 {
+		font-size: 36px;
+	}
+	.portfolio h1 {
+		font-size: 50px;
+	}
+	.portfolio {
+		margin-bottom: 20px;
+	}
+	.single-price {
+		margin-bottom: 49px;
+	}
+	.testimonial h1 {
+		font-size: 42px;
+
+	}
+	.single-blog {
+		overflow: hidden;
+		margin-bottom: 36px;
+		border-bottom: dotted 1px #9f9999;
+	}
+	.blog h1 {
+		font-size: 42px;
+	}
+	.blog h1 {
+		font-size: 36px;
+	}
+	.contact h1 {
+		font-size: 21px;
+		padding-top: 29px;
+	}
+	.contact p {
+		font-size: 14px;
+		padding-bottom: 0;
+		color: #a29999;
+	}
+	.contact a {
+		padding: 8px 11px;
+		font-size: 13px;
+	}
+	.contact h2 {
+		font-size: 18px;
+		padding-top: 12px;
+	}
+	.contact {
+		width: 100%;
+	}
+
+
+
+}
